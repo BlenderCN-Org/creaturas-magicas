@@ -1,0 +1,10 @@
+/home/jemandez/Github_projects/creaturas-magicas/mesh/Basev2.blend
+/home/jemandez/Github_projects/creaturas-magicas/Basev2.blend
+/files/Dropbox/Personales/BabyTotoro/Mesh/Basev2.blend
+/files/Dropbox/Personales/BabyTotoro/Mesh/Base.blend
+/files/Blender/Proyectos/14-15/Woman/Models/Woman.blend1
+/files/Blender/Proyectos/14-15/Woman/Models/Headv2.blend2
+/files/Blender/Proyectos/14-15/Woman/Models/Headv2.blend1
+/files/Blender/Proyectos/14-15/Woman/Models/Head.blend
+/files/Blender/Proyectos/14-15/Woman/Models/Headv2.blend
+/files/Blender/Proyectos/14-15/Woman/Models/Headv3.blend

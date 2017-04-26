@@ -1,0 +1,15 @@
+[Bookmarks]
+/Work/Dropbox/Blender/
+/Work/Dropbox/Blender/Proyectos/
+/Work/Materiales Blender/
+[Recent]
+/home/jemandez/Github_projects/creaturas-magicas/textures/
+/home/jemandez/Downloads/
+/home/jemandez/Github_projects/creaturas-magicas/
+/files/Dropbox/Personales/BabyTotoro/Mesh/
+/files/Dropbox/Blender/Proyectos/14-15/Coco/Textures/
+/files/Materiales Blender/Recursos/Texturas/
+/home/jesus/Materiales Blender/Recursos/Texturas/
+/files/Dropbox/Blender/Proyectos/14-15/Coco/Models/
+/home/jesus/Blender/Proyectos/14-15/Coco/Models/
+/home/jesus/makehuman/v1/exports/
